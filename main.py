@@ -3,5 +3,5 @@ match l:
     case 'ukr':
         print ('привіт')
     case _:
-        print(0)
+        print(00)
 
