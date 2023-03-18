@@ -6,3 +6,5 @@ while i<=l:
     i+=1
 print("Факторіал числа {} дорівнює {}".format(l,factorial))
 
+for i in 'hello world':
+    print(i*2,end="")
