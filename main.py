@@ -1,6 +1,6 @@
 print("Для виходу натисніть Y")
 while True:
-    data = input("Введіть суму для обміну:")
+    data = input("Введіть  суму для обміну:")
     if data.lower() == "y":
         break
     money = int(data)
